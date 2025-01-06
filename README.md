@@ -1,0 +1,1 @@
+This is a real-time chat application built using Flask and Socket.IO that allows users to join a chat room, send messages, and see messages from others in real-time. It demonstrates the core features of a live chat application with a focus on simplicity and ease of use.
